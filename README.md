@@ -1,0 +1,2 @@
+# MVVMDemo
+使用DataBinding,ViewModel以及LiveData等实现MVVM开发模式
